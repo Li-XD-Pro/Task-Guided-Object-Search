@@ -93,5 +93,3 @@ python main.py \
     --partial_reward 1 \
     --split 14/8
 ```
-
-# Task-Guided-Object-Search
